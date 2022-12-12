@@ -1,6 +1,6 @@
 # ![Header](./assets/github-header-image.png)
 - 👀 I’m interested in learning and solving problem, and creating mobile apps
-- 🌱 I’m currently learning Flutter and React-Native
+- 🌱 I’m currently learning Flutter, React-Native and ReactJs with material-ui
 - 💞️ I’m looking to collaborate on cross-platform mobile apps
 <!-- - 📫 How to reach me? Here at github -->
 
