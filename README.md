@@ -4,7 +4,7 @@
 - 👀 I’m interested in learning and solving problem, and creating mobile apps
 - 🌱 I’m currently learning Flutter, React-Native and ReactJs with Material-ui
 - 💞️ I’m looking to collaborate on cross-platform mobile apps
-- Recently I have taken MBTI on [16personalities](https://www.16personalities.com/profiles/8b1a3947d2dc8) and realized that I am an **ISFJ-T**.
+- Recently I have taken MBTI on [16personalities](https://www.16personalities.com/profiles/8b1a3947d2dc8) and found out that I am an **ISFJ-T**.
 - Here is my [Linked-In](https://www.linkedin.com/in/kam-man-wong-2aa1b1251/)
 
 # My skills
